@@ -1,3 +1,2 @@
 # Description
-This repo will be my solutions to some open source backend challenges.
-The challenges will come primarly from `https://github.com/CollabCodeTech/backend-challenges`
+This repository contains my solutions to various (hopefully it will be various in the future) open-source backend challenges. Most of the challenges come from https://github.com/CollabCodeTech/backend-challenges
